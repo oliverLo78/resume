@@ -25,7 +25,7 @@ Webpage that displays my resume
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/refactor%20page%20screenshot.png)
+![The Resume webpage includes a links to ongoing GitHub projects, and here is my linkedIn profile with my contact information.](./assets/images/refactor%20page%20screenshot.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
 
