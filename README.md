@@ -33,6 +33,11 @@ The following image shows the web application's appearance and functionality:
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
 
-## Credits
+## Contact
 
-horiseon Social solutions services 
+For any further questions feel free to contact me via:
+- GitHub: [GitHub oliverLo78](https://github.com/oliverLo78)
+- Email: [oliverberto@gmail.com](mailto:oliverberto@gmail.com)
+- LinkedIn: [Oliver Lopez](https://www.linkedin.com/in/oliver-lopez78/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
