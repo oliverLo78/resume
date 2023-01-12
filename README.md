@@ -17,7 +17,7 @@ Webpage that displays my resume
 
 ## Installation
 
-1. Head on over to the website 
+1. Head on over to the website https://oliverlo78.github.io/resume/
 2. Then check out the simple yet effective layout of the website 
 3. Hover on to my resume site to check out my work experience  
 
