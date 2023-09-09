@@ -4,9 +4,9 @@
 
 Webpage that displays my resume 
 
-- More people shout display their reusme on website
-- To make a resume  that is more accessible to everyone that is online
-- Learned to set up an HTML page using only GitHub and my laptop
+- Display reusme as website
+- To make a resume that is more accessible to everyone that is online
+- Learned to set up an HTML page and folder structured using GitHub pages, html and css.
 
 ## Table of Contents (Optional)
 
