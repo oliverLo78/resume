@@ -1,0 +1,72 @@
+```markdown
+# Home Page
+- Welcome to Oliver Lopez Web Development
+- Offering professional web development services to help your business succeed
+- [Video: Introduction to Oliver Lopez Web Development]
+- Learn More [About Me], Explore [Services], Browse [Portfolio], Read [Blog], Get in Touch [Contact]
+
+# About Me
+- About Oliver Lopez
+  - Experienced and certified web developer passionate about creating effective online solutions
+  - Dedicated to delivering high-quality websites tailored to your business needs
+  - [Photo of Oliver Lopez]
+- Mission Statement: "Empowering businesses with innovative web solutions to thrive in the digital world."
+
+# Services
+- Web Development Services
+  - Website Design: Crafting visually appealing and user-friendly websites
+  - Website Development: Building custom websites with advanced functionality
+  - Website Optimization: Improving website performance and user experience
+  - Website Maintenance: Ensuring your website runs smoothly and stays up-to-date
+- Pricing: Contact for personalized quotes and packages
+
+# Portfolio
+- Explore Our Work
+  - [Project 1 Title]
+    - Description: [Brief description of the project]
+    - [Link to live website/demo]
+  - [Project 2 Title]
+    - Description: [Brief description of the project]
+    - [Link to live website/demo]
+  - [Project 3 Title]
+    - Description: [Brief description of the project]
+    - [Link to live website/demo]
+
+# Testimonials
+- What Clients Say
+  - "Oliver did an amazing job creating our website. His attention to detail and expertise really made a difference." - [Client Name]
+  - "Working with Oliver was a breeze. He was responsive, professional, and delivered exactly what we needed." - [Client Name]
+
+# Blog
+- Latest Articles
+  - [Title of Latest Blog Post]
+    - [Brief excerpt from the post]
+    - Read More
+  - [Title of Second Latest Blog Post]
+    - [Brief excerpt from the post]
+    - Read More
+  - [Title of Third Latest Blog Post]
+    - [Brief excerpt from the post]
+    - Read More
+
+# Resources
+- Free Resources for Your Business
+  - [Guide Title]: [Brief description]
+  - [Template Title]: [Brief description]
+  - [Tool Title]: [Brief description]
+
+# Contact
+- Get in Touch
+  - Have a project in mind? Let's discuss how we can help.
+  - [Contact Form]
+  - Email: [Email Address]
+  - Phone: [Phone Number]
+- Connect with Us
+  - [Social Media Icons/Links]
+
+# Footer
+- Quick Links: [About Me] [Services] [Portfolio] [Blog] [Contact]
+- Copyright © 2024 Oliver Lopez Web Development. All rights reserved.
+```
+
+This Markdown version retains the structure and content of the text-based prototype, making it suitable for easy formatting and sharing on various platforms that support Markdown.

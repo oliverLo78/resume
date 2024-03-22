@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hero Block with Video</title>
+    <meta name="description" content="A hero block with a background video that plays in a continuous loop and includes a tinted overlay.">  
+    <link rel="preload" href="./Assets/videos/hero-video.mp4" as="image">
+    <link rel="stylesheet" href="./Assets/styles/hero-video.css">
+</head>
+<body>
+    <header class="hero-block text-center">
+        <div class="hero-text-container">
+            <h1>Offering professional web development services</h1>
+            <h2>to help your business succeed</h2>
+        <div class="hero-bg-media">
+            <video loop playsinline muted autoplay poster="assets/videos/hero-video.mp4" class="background-video" disablepictureinpicture preload="auto">  
+            <source src="assets/videos/hero-video.mp4" type="video/mp4">
+            </video>
+        </div>
+        </div>
+        <div class="bg-overlay"></div>
+    </header>
+</body>
+</html>
+
